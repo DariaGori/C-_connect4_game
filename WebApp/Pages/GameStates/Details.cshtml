@@ -1,0 +1,63 @@
+@page
+@using Domain
+@model WebApp.Pages_GameStates.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Game Save Details</h1>
+
+<div>
+    <h4>GameState</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.GameState.SaveTime)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.GameState.SaveTime)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.GameState.BoardWidth)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.GameState.BoardWidth)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.GameState.BoardHeight)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.GameState.BoardHeight)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.GameState.HumanPlayerCount)
+        </dt>
+        <dd class="col-sm-10">
+            @(Model.GameState.HumanPlayerCount != 1 ? "Yes" : "No")
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.GameState.WinningConditionSequenceLength)
+        </dt>
+        <dd class="col-sm-10">
+            <p> </p>
+            @Html.DisplayFor(model => model.GameState.WinningConditionSequenceLength)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.GameState.Player1Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.GameState.Player1Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.GameState.Player2Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.GameState.Player2Name)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./../Play" class="btn btn-primary" asp-route-gameId="@Model.GameState.GameStateId">Play</a> |
+    <a asp-page="./Index" class="btn btn-info">Back to List</a>
+</div>

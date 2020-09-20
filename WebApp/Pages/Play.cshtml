@@ -1,0 +1,110 @@
+﻿@page
+@using BLL
+@model PlayModel
+
+@{
+    ViewData["Title"] = "New Game";
+}
+
+<h1>Current Game: @Model.GameState.GameSaveName</h1>
+
+@{
+    string playerName = Model.GameState.PlayerZeroMove ? Model.GameState.Player2Name! : Model.GameState.Player1Name!;
+    <h4>@playerName's turn</h4>
+}
+
+<hr />
+<div>
+    <input type="hidden" asp-for="GameState.GameStateId"/>
+    <p> </p>
+    <h6>To make a move, press the button on top of the column.</h6>
+    <p> </p>
+    @{
+        if (!String.IsNullOrWhiteSpace(Model.Warning))
+        {
+            string output = (Model.Warning == " won!") ? playerName + Model.Warning : Model.Warning;
+            <h5 style="color: darkred;">@output</h5>
+        }
+    }
+</div>
+
+<form method="post">
+    <div class="media">
+        <div class="align-self-start mr-3">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <table class="table table-bordered" style="width: initial;">
+                <thead>
+                <tr>
+                    @for (var x = 1; x <= Model.GameState.BoardWidth; x++)
+                    {
+                        <th class="p-2" style="width: 50px; height: 50px;">
+                            @if (Model.GameState.GameOver)
+                            {
+                                <input type="submit" value="@x" asp-route-gameId="@Model.GameState.GameStateId"
+                                       asp-route-xIndex="@(x - 1)" class="btn btn-secondary btn-info m-0" disabled/>
+                            }
+                            else
+                            {
+                                <input type="submit" value="@x" asp-route-gameId="@Model.GameState.GameStateId"
+                                       asp-route-xIndex="@(x - 1)" class="btn btn-secondary btn-info m-0"/>
+                            }
+                        </th>
+                    }
+                </tr>
+                </thead>
+                <tbody>
+                @for (var y = 1; y <= Model.GameState.BoardHeight; y++)
+                {
+                    <tr>
+                        @for (var x = 1; x <= Model.GameState.BoardWidth; x++)
+                        {
+                            <td class="p-1" style="width: 50px; height: 50px;">
+                                @{
+                                    CellState cell = Model.Board[y - 1, x - 1];
+                                    string value;
+                                    switch (cell)
+                                    {
+                                        case CellState.Empty:
+                                            value = " ";
+                                            break;
+                                        case CellState.BlackBall:
+                                            value = "\u25ef";
+                                            break;
+                                        case CellState.WhiteBall:
+                                            value = "\u2b24";
+                                            break;
+                                        default:
+                                            value = " ";
+                                            break;
+                                    }
+                                    <button class="btn btn-secondary btn-light" disabled>@value</button>
+                                }
+                            </td>
+                        }
+                    </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+        <div class="media-body mt-4">
+            <table class="table ml-5" style="width: 50%">
+                <tr>
+                    <td><input type="submit" class="btn btn-info btn-lg" asp-route-toDo="1" asp-route-gameId="@Model.GameState.GameStateId" value="Start a New Game" style="width: 100%"></td>
+                </tr>
+                <tr>
+                    <td><input type="submit" class="btn btn-primary btn-lg" asp-route-toDo="2" asp-route-gameId="@Model.GameState.GameStateId" value="Go to Saved Games List" style="width: 100%"></td>
+                </tr>
+                <tr>
+                    <td><input type="submit" class="btn btn-danger btn-lg" asp-route-toDo="3" asp-route-gameId="@Model.GameState.GameStateId" value="Exit to the Main Menu"style="width: 100%"></td>
+                </tr>
+                <tr></tr>
+            </table>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+    

@@ -1,0 +1,18 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center center-vert">
+    <h1 class="display-4">Welcome to Connect 4!</h1>
+</div>
+
+<form method="post">
+    <div class="center-vert">
+        <input type="submit" class="btn btn-info btn-lg btn-block" asp-route-toDo="1" value="Start a New Game" asp-route-id="1">
+        <input type="submit" class="btn btn-info btn-lg btn-block" asp-route-toDo="2" value="Continue With a Saved Game">
+        <input type="submit" class="btn btn-info btn-lg btn-block" asp-route-toDo="3" value="Change Game Settings">
+    </div>
+</form>
+

@@ -1,0 +1,80 @@
+@page
+@model WebApp.Pages_GameStates.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>GameState</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="GameState.GameStateId" />
+            <div class="form-group">
+                <label asp-for="GameState.SaveTime" class="control-label"></label>
+                <input asp-for="GameState.SaveTime" class="form-control" />
+                <span asp-validation-for="GameState.SaveTime" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GameState.GameName" class="control-label"></label>
+                <input asp-for="GameState.GameName" class="form-control" />
+                <span asp-validation-for="GameState.GameName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GameState.BoardWidth" class="control-label"></label>
+                <input asp-for="GameState.BoardWidth" class="form-control" />
+                <span asp-validation-for="GameState.BoardWidth" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GameState.BoardHeight" class="control-label"></label>
+                <input asp-for="GameState.BoardHeight" class="form-control" />
+                <span asp-validation-for="GameState.BoardHeight" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="GameState.PlayerZeroMove" /> @Html.DisplayNameFor(model => model.GameState.PlayerZeroMove)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="GameState.HumanPlayerCount" class="control-label"></label>
+                <input asp-for="GameState.HumanPlayerCount" class="form-control" />
+                <span asp-validation-for="GameState.HumanPlayerCount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GameState.WinningConditionSequenceLength" class="control-label"></label>
+                <input asp-for="GameState.WinningConditionSequenceLength" class="form-control" />
+                <span asp-validation-for="GameState.WinningConditionSequenceLength" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GameState.Player1Name" class="control-label"></label>
+                <input asp-for="GameState.Player1Name" class="form-control" />
+                <span asp-validation-for="GameState.Player1Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GameState.Player2Name" class="control-label"></label>
+                <input asp-for="GameState.Player2Name" class="form-control" />
+                <span asp-validation-for="GameState.Player2Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GameState.BoardStateJson" class="control-label"></label>
+                <input asp-for="GameState.BoardStateJson" class="form-control" />
+                <span asp-validation-for="GameState.BoardStateJson" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

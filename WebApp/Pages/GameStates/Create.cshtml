@@ -1,0 +1,85 @@
+@page
+@model WebApp.Pages_GameStates.CreateModel
+
+@{
+    ViewData["Title"] = "New Game";
+}
+
+<h1>Start a New Game</h1>
+
+<h4>Choose game options</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+           
+            <div class="form-group">
+                <label asp-for="GameState.GameSaveName" class="control-label"></label>
+                <input asp-for="GameState.GameSaveName" class="form-control" />
+                <span asp-validation-for="GameState.GameSaveName" class="text-danger"></span>
+            </div>
+            
+
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input id="multiPlayerCheck" onclick="showHidden('player2'); hideElement('firstMove')" class="form-check-input" asp-for="PlayAgainstHuman"/> @Html.DisplayNameFor(model => model.GameState.HumanPlayerCount)
+                </label>
+            </div>
+            
+            <div id="firstMove" class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="GameState.ComputerMove"/> @Html.DisplayNameFor(model => model.GameState.ComputerMove)
+                </label>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group col-md-6">
+                    <label asp-for="GameState.Player1Name" class="control-label"></label>
+                    <input asp-for="GameState.Player1Name" class="form-control"/>
+                    <span asp-validation-for="GameState.Player1Name" class="text-danger"></span>
+                </div>
+                
+                <div id="player2" class="form-group col-md-6" style="display:none">
+                    <label asp-for="GameState.Player2Name" class="control-label"></label>
+                    <input asp-for="GameState.Player2Name" class="form-control"/>
+                    <span asp-validation-for="GameState.Player2Name" class="text-danger"></span>
+                </div>
+            </div>
+            
+            <div>
+                <p>&nbsp;</p>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Start The Game" class="btn btn-info"/> |
+                <a class="btn btn-secondary" asp-page="./../Index">Back to Main Page</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+         function showHidden(id) {
+              var checkBox = document.getElementById("multiPlayerCheck");
+              var hiddenElement = document.getElementById(id);
+              if (checkBox.checked){
+                  hiddenElement.style.display = "block";
+              } else {
+                  hiddenElement.style.display = "none";
+              }
+         }
+         
+         function hideElement(id) {
+               var checkBox = document.getElementById("multiPlayerCheck");
+               var targetElement = document.getElementById(id);
+               if (checkBox.checked){
+                    targetElement.style.display = "none";
+               } else {
+                         targetElement.style.display = "block";
+               }
+         }
+    </script>
+}

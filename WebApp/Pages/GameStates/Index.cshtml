@@ -1,0 +1,54 @@
+@page
+@model WebApp.Pages_GameStates.IndexModel
+
+@{
+    ViewData["Title"] = "Saved Games";
+}
+
+<h1>Saved Games</h1>
+<p>&nbsp;</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.GameState[0].SaveTime)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GameState[0].GameSaveName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GameState[0].Player1Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GameState[0].Player2Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.GameState) {
+    if (item.GameStateId != 1)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SaveTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GameSaveName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Player1Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Player2Name)
+            </td>
+            <td>
+                <a asp-page="./Details" asp-route-id="@item.GameStateId" class="btn btn-info">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.GameStateId" class="btn btn-primary">Delete</a>
+            </td>
+        </tr>
+    }
+}
+    </tbody>
+</table>

@@ -157,11 +157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet",
@@ -181,6 +181,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "projectReferences": {}
         }
       },
@@ -192,6 +193,7 @@
     },
     "frameworks": {
       "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
         "dependencies": {
           "Newtonsoft.Json": {
             "target": "Package",
@@ -217,7 +219,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

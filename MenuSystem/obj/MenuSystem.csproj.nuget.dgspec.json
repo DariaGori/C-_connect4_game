@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\MenuSystem\\MenuSystem.csproj": {}
+    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\MenuSystem\\MenuSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\MenuSystem\\MenuSystem.csproj": {
+    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\MenuSystem\\MenuSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\MenuSystem\\MenuSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\MenuSystem\\MenuSystem.csproj",
         "projectName": "MenuSystem",
-        "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\MenuSystem\\MenuSystem.csproj",
+        "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\MenuSystem\\MenuSystem.csproj",
         "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\MenuSystem\\obj\\",
+        "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\MenuSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet",
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "imports": [
             "net461",
             "net462",
@@ -57,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

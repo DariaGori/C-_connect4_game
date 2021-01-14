@@ -6,3 +6,15 @@ C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\Domain\obj\Debug\netstandar
 C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
 C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\Domain\obj\Debug\netstandard2.1\Domain.dll
 C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\Domain\obj\Debug\netstandard2.1\Domain.pdb
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\Domain\bin\Debug\netstandard2.1\BLL.dll
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\Domain\bin\Debug\netstandard2.1\BLL.pdb
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\Domain\obj\Debug\netstandard2.1\Domain.csproj.CopyComplete
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\Domain\obj\Debug\netstandard2.1\Domain.pdb

@@ -11,3 +11,17 @@ C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\ConsoleUI\obj\Debug\netstan
 C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\ConsoleUI\obj\Debug\netstandard2.1\ConsoleUI.csproj.CopyComplete
 C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\ConsoleUI\obj\Debug\netstandard2.1\ConsoleUI.dll
 C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\ConsoleUI\obj\Debug\netstandard2.1\ConsoleUI.pdb
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\ConsoleUI\bin\Debug\netstandard2.1\ConsoleUI.deps.json
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\ConsoleUI\bin\Debug\netstandard2.1\ConsoleUI.dll
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\ConsoleUI\bin\Debug\netstandard2.1\ConsoleUI.pdb
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\ConsoleUI\bin\Debug\netstandard2.1\BLL.dll
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\ConsoleUI\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\ConsoleUI\bin\Debug\netstandard2.1\BLL.pdb
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\ConsoleUI\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\ConsoleUI\obj\Debug\netstandard2.1\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\ConsoleUI\obj\Debug\netstandard2.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\ConsoleUI\obj\Debug\netstandard2.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\ConsoleUI\obj\Debug\netstandard2.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\ConsoleUI\obj\Debug\netstandard2.1\ConsoleUI.csproj.CopyComplete
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\ConsoleUI\obj\Debug\netstandard2.1\ConsoleUI.dll
+C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game\ConsoleUI\obj\Debug\netstandard2.1\ConsoleUI.pdb

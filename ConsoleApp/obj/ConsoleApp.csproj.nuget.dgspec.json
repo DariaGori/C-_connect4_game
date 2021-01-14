@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\BLL\\BLL.csproj": {
+    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\BLL\\BLL.csproj",
+        "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\BLL\\obj\\",
+        "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet",
@@ -31,9 +31,10 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\Domain\\Domain.csproj"
+              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\Domain.csproj"
               }
             }
           }
@@ -46,6 +47,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -71,18 +73,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet",
@@ -102,18 +104,19 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\ConsoleUI\\ConsoleUI.csproj": {
-                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\ConsoleUI\\ConsoleUI.csproj"
+              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\ConsoleUI\\ConsoleUI.csproj": {
+                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\ConsoleUI\\ConsoleUI.csproj"
               },
-              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\DAL\\DAL.csproj"
+              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\Domain\\Domain.csproj"
+              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\MenuSystem\\MenuSystem.csproj": {
-                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\MenuSystem\\MenuSystem.csproj"
+              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\MenuSystem\\MenuSystem.csproj": {
+                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\MenuSystem\\MenuSystem.csproj"
               }
             }
           }
@@ -126,6 +129,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "target": "Package",
@@ -151,18 +155,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet",
@@ -182,9 +186,10 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\BLL\\BLL.csproj"
+              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\BLL\\BLL.csproj"
               }
             }
           }
@@ -197,6 +202,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "imports": [
             "net461",
             "net462",
@@ -212,18 +218,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\DAL\\DAL.csproj": {
+    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet",
@@ -243,12 +249,13 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\BLL\\BLL.csproj"
+              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\BLL\\BLL.csproj"
               },
-              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\Domain\\Domain.csproj"
+              "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\Domain.csproj"
               }
             }
           }
@@ -261,6 +268,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -290,18 +298,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\Domain\\Domain.csproj": {
+    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet",
@@ -321,6 +329,7 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -332,6 +341,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
@@ -357,18 +367,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\MenuSystem\\MenuSystem.csproj": {
+    "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\MenuSystem\\MenuSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\MenuSystem\\MenuSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\MenuSystem\\MenuSystem.csproj",
         "projectName": "MenuSystem",
-        "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\MenuSystem\\MenuSystem.csproj",
+        "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\MenuSystem\\MenuSystem.csproj",
         "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\MenuSystem\\obj\\",
+        "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\MenuSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet",
@@ -388,6 +398,7 @@
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -399,6 +410,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "imports": [
             "net461",
             "net462",
@@ -414,7 +426,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

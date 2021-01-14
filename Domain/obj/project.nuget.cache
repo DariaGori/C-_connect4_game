@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C4evYXQsaZWHYs4CK41seX5hFeTjcJtZ59UUKS3pPcl0YYKuuicQnU09jUyk5tbYEFvVhkuCaomeI412+ODoqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Daria\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

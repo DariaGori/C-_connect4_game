@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Daria\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
-    <e p="C:\Users\Daria\.Rider2019.3\config\extensions" t="IncludeRecursive" />
-    <e p="C:\Users\Daria\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Daria\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Connect_4.-557157557.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Daria\RiderProjects\charp2019fall\Connect_4" t="IncludeFlat">
+    <e p="C:\Users\Daria\AppData\local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Daria\AppData\local\JetBrains\Rider2020.3\resharper-host\local\Transient\Rider\v203\SolutionCaches\_Connect_4.600231415.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Daria\AppData\Roaming\JetBrains\Rider2020.3\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Daria\RiderProjects\charp2019fall\Connect_4\C-_connect4_game" t="IncludeFlat">
       <e p="BLL" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="BLL.csproj" t="IncludeRecursive" />
@@ -50,8 +49,8 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="DAL.csproj" t="IncludeRecursive" />
         <e p="Migrations" t="Include">
-          <e p="20200108141502_InitialDbCreation.cs" t="Include" />
-          <e p="20200108141502_InitialDbCreation.Designer.cs" t="Include" />
+          <e p="20201119193426_InitialDbCreation.cs" t="Include" />
+          <e p="20201119193426_InitialDbCreation.Designer.cs" t="Include" />
           <e p="AppDbContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">

@@ -1,7 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c801b30-b4db-4550-afb7-b04221f262a1" name="Default Changelist" comment="" />
+    <list default="true" id="9c801b30-b4db-4550-afb7-b04221f262a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Connect_4/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Connect_4/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Connect_4/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Connect_4/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Connect_4/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Connect_4/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Connect_4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Connect_4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/bin/Debug/netstandard2.1/BLL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/bin/Debug/netstandard2.1/BLL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/bin/Debug/netstandard2.1/BLL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/bin/Debug/netstandard2.1/BLL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/bin/Debug/netstandard2.1/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/bin/Debug/netstandard2.1/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/bin/Debug/netstandard2.1/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/bin/Debug/netstandard2.1/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/BLL.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/BLL.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/obj/BLL.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/BLL.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/obj/BLL.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/Debug/netstandard2.1/BLL.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/obj/Debug/netstandard2.1/BLL.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/Debug/netstandard2.1/BLL.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/obj/Debug/netstandard2.1/BLL.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/Debug/netstandard2.1/BLL.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/obj/Debug/netstandard2.1/BLL.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/Debug/netstandard2.1/BLL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/obj/Debug/netstandard2.1/BLL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/Debug/netstandard2.1/BLL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/obj/Debug/netstandard2.1/BLL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLL/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BLL/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/BLL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/BLL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/BLL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/BLL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleUI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/MenuSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/MenuSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/MenuSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/MenuSystem.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/ConsoleApp.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/ConsoleApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/ConsoleApp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/ConsoleApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/ConsoleApp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/Debug/netcoreapp3.1/ConsoleApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/bin/Debug/netstandard2.1/BLL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/bin/Debug/netstandard2.1/BLL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/bin/Debug/netstandard2.1/BLL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/bin/Debug/netstandard2.1/BLL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/bin/Debug/netstandard2.1/ConsoleUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/bin/Debug/netstandard2.1/ConsoleUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/bin/Debug/netstandard2.1/ConsoleUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/bin/Debug/netstandard2.1/ConsoleUI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/bin/Debug/netstandard2.1/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/bin/Debug/netstandard2.1/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/bin/Debug/netstandard2.1/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/bin/Debug/netstandard2.1/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/ConsoleUI.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/ConsoleUI.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/obj/ConsoleUI.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/ConsoleUI.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/obj/ConsoleUI.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/Debug/netstandard2.1/ConsoleUI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/obj/Debug/netstandard2.1/ConsoleUI.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/Debug/netstandard2.1/ConsoleUI.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/obj/Debug/netstandard2.1/ConsoleUI.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/Debug/netstandard2.1/ConsoleUI.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/obj/Debug/netstandard2.1/ConsoleUI.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/Debug/netstandard2.1/ConsoleUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/obj/Debug/netstandard2.1/ConsoleUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/Debug/netstandard2.1/ConsoleUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/obj/Debug/netstandard2.1/ConsoleUI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleUI/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleUI/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/Migrations/20200108141502_InitialDbCreation.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/Migrations/20200108141502_InitialDbCreation.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/Migrations/AppDbContextModelSnapshot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/bin/Debug/netstandard2.1/BLL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/bin/Debug/netstandard2.1/BLL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/bin/Debug/netstandard2.1/BLL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/bin/Debug/netstandard2.1/BLL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/bin/Debug/netstandard2.1/DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/bin/Debug/netstandard2.1/DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/bin/Debug/netstandard2.1/DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/bin/Debug/netstandard2.1/DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/bin/Debug/netstandard2.1/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/bin/Debug/netstandard2.1/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/bin/Debug/netstandard2.1/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/bin/Debug/netstandard2.1/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/DAL.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/DAL.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/DAL.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/DAL.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/DAL.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/netstandard2.1/DAL.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/netstandard2.1/DAL.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/netstandard2.1/DAL.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/netstandard2.1/DAL.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/netstandard2.1/DAL.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/netstandard2.1/DAL.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/netstandard2.1/DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/netstandard2.1/DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/Debug/netstandard2.1/DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/Debug/netstandard2.1/DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/bin/Debug/netstandard2.1/Domain.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/bin/Debug/netstandard2.1/Domain.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/bin/Debug/netstandard2.1/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/bin/Debug/netstandard2.1/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/bin/Debug/netstandard2.1/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/bin/Debug/netstandard2.1/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/netstandard2.1/Domain.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/netstandard2.1/Domain.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/netstandard2.1/Domain.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/netstandard2.1/Domain.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/netstandard2.1/Domain.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/netstandard2.1/Domain.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/netstandard2.1/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/netstandard2.1/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Debug/netstandard2.1/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Debug/netstandard2.1/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Domain.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Domain.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Domain.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/Domain.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/Domain.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Domain/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domain/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MenuSystem/bin/Debug/netstandard2.1/MenuSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MenuSystem/bin/Debug/netstandard2.1/MenuSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MenuSystem/bin/Debug/netstandard2.1/MenuSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MenuSystem/bin/Debug/netstandard2.1/MenuSystem.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MenuSystem/obj/Debug/netstandard2.1/MenuSystem.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MenuSystem/obj/Debug/netstandard2.1/MenuSystem.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MenuSystem/obj/Debug/netstandard2.1/MenuSystem.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MenuSystem/obj/Debug/netstandard2.1/MenuSystem.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MenuSystem/obj/Debug/netstandard2.1/MenuSystem.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MenuSystem/obj/Debug/netstandard2.1/MenuSystem.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MenuSystem/obj/Debug/netstandard2.1/MenuSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MenuSystem/obj/Debug/netstandard2.1/MenuSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MenuSystem/obj/Debug/netstandard2.1/MenuSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MenuSystem/obj/Debug/netstandard2.1/MenuSystem.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MenuSystem/obj/MenuSystem.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MenuSystem/obj/MenuSystem.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MenuSystem/obj/MenuSystem.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MenuSystem/obj/MenuSystem.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MenuSystem/obj/MenuSystem.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MenuSystem/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MenuSystem/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MenuSystem/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MenuSystem/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/BLL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/BLL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/BLL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/BLL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/ConsoleUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/ConsoleUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/ConsoleUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/ConsoleUI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/DAL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/DAL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/DAL.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/DAL.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/WebApp.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/WebApp.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/WebApp.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/WebApp.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/WebApp.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/WebApp.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/WebApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/WebApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/WebApp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/WebApp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/WebApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/WebApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/WebApp.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/bin/Debug/netcoreapp3.1/WebApp.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/EditSettings.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/EditSettings.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/GameStates/Create.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/GameStates/Create.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/GameStates/Delete.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/GameStates/Delete.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/GameStates/Details.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/GameStates/Details.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/GameStates/Edit.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/GameStates/Edit.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/GameStates/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/GameStates/Index.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/GameStates/Play.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/GameStates/Play.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/Play.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/Play.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/Debug/netcoreapp3.1/WebApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/WebApp.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/WebApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/WebApp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/WebApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/WebApp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,46 +202,47 @@
     </expand>
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ConsoleApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Error.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MenuSystem/MenuItem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Play.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ConsoleUI/GameUI.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Shared/_ValidationScriptsPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/EEDA15AD-B294-4CDE-8CCE-D711967793F5/2D/PageActionInvoker.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DAL/AppDbContext.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/EditSettings.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/EditSettings.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Domain/GameState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BLL/Game.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/D70101B4-C1C8-4210-89C4-95266244120B/46/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Delete.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Create.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Delete.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Delete.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BLL/CellState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Details.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Details.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Edit.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MenuSystem/Menu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Edit.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Details.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Details.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DAL/AppDbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Play.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BLL/GameConfigHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Play.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Play.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/GameStates/Edit.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Shared/_ValidationScriptsPartial.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/EditSettings.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApp/Pages/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Play.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApp/Pages/Privacy.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Error.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/EditSettings.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Play.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApp/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/GameConfigHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BLL/CellState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MenuSystem/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MenuSystem/MenuItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Domain/GameState.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -112,7 +278,6 @@
         <option value="$PROJECT_DIR$/WebApp/wwwroot/css/site.css" />
         <option value="$PROJECT_DIR$/WebApp/Pages/GameStates/Create.cshtml.cs" />
         <option value="$PROJECT_DIR$/WebApp/Pages/GameStates/Index.cshtml" />
-        <option value="$PROJECT_DIR$/Domain/GameState.cs" />
         <option value="$PROJECT_DIR$/ConsoleApp/Program.cs" />
         <option value="$PROJECT_DIR$/WebApp/Pages/Play.cshtml" />
         <option value="$PROJECT_DIR$/WebApp/Pages/GameStates/Details.cshtml.cs" />
@@ -122,13 +287,13 @@
         <option value="$PROJECT_DIR$/WebApp/Pages/Index.cshtml.cs" />
         <option value="$PROJECT_DIR$/WebApp/Pages/GameStates/Index.cshtml.cs" />
         <option value="$PROJECT_DIR$/MenuSystem/Menu.cs" />
+        <option value="$PROJECT_DIR$/Domain/GameState.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1V4EZf9G8y6FlKSVdIqFfYZAhBN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -136,10 +301,12 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager" selected=".NET Project.ConsoleApp">
+  <component name="RunManager" selected=".NET Launch Settings Profile.WebApp">
     <configuration name="ConsoleApp" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleApp/bin/Debug/netcoreapp3.1/ConsoleApp.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -155,7 +322,7 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
       <method v="2">
-        <option name="Build" enabled="true" />
+        <option name="Build" />
       </method>
     </configuration>
     <configuration default="true" type="DotNetProject" factoryName=".NET Project">
@@ -173,7 +340,7 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
       <method v="2">
-        <option name="Build" enabled="true" />
+        <option name="Build" />
       </method>
     </configuration>
     <configuration name="WebApp" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
@@ -188,7 +355,7 @@
       <option name="SEND_DEBUG_REQUEST" value="1" />
       <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
       <method v="2">
-        <option name="Build" enabled="true" />
+        <option name="Build" />
       </method>
     </configuration>
     <configuration name="WebApp: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
@@ -203,7 +370,7 @@
       <option name="SEND_DEBUG_REQUEST" value="1" />
       <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
       <method v="2">
-        <option name="Build" enabled="true" />
+        <option name="Build" />
       </method>
     </configuration>
     <list>
@@ -212,18 +379,7 @@
       <item itemvalue=".NET Project.ConsoleApp" />
     </list>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -250,131 +406,53 @@
       <workItem from="1581345691974" duration="482000" />
       <workItem from="1581949126466" duration="44000" />
       <workItem from="1584376042024" duration="56000" />
+      <workItem from="1601809253569" duration="5775000" />
+      <workItem from="1603115578505" duration="744000" />
+      <workItem from="1603981454393" duration="4546000" />
+      <workItem from="1605814084408" duration="1241000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577204990079">
+    <state width="1493" height="618" key="GridCell.Tab.0.bottom" timestamp="1605880714338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1577204990079" />
-    <state x="449" y="140" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576504952291">
+    <state width="1493" height="618" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605880714338" />
+    <state width="1493" height="618" key="GridCell.Tab.0.center" timestamp="1605880714338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="140" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1576504952291" />
-    <state width="432" height="466" key="DebuggerActiveHint" timestamp="1577569251154">
+    <state width="1493" height="618" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605880714338" />
+    <state width="1493" height="618" key="GridCell.Tab.0.left" timestamp="1605880714338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="432" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1577569251153" />
-    <state width="1493" height="475" key="GridCell.Tab.0.bottom" timestamp="1579698059984">
+    <state width="1493" height="618" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605880714338" />
+    <state width="1493" height="618" key="GridCell.Tab.0.right" timestamp="1605880714338">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="475" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579698059984" />
-    <state width="1493" height="475" key="GridCell.Tab.0.center" timestamp="1579698059984">
+    <state width="1493" height="618" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605880714338" />
+    <state x="450" y="11" width="636" height="801" key="find.popup" timestamp="1601809353257">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="475" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579698059984" />
-    <state width="1493" height="475" key="GridCell.Tab.0.left" timestamp="1579698059984">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="475" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579698059984" />
-    <state width="1493" height="475" key="GridCell.Tab.0.right" timestamp="1579698059984">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="475" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579698059984" />
-    <state width="1493" height="180" key="GridCell.Tab.1.bottom" timestamp="1578498220626">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578498220626" />
-    <state width="1493" height="180" key="GridCell.Tab.1.center" timestamp="1578498220626">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578498220626" />
-    <state width="1493" height="180" key="GridCell.Tab.1.left" timestamp="1578498220626">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578498220626" />
-    <state width="1493" height="180" key="GridCell.Tab.1.right" timestamp="1578498220626">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578498220626" />
-    <state width="1493" height="180" key="GridCell.Tab.2.bottom" timestamp="1578498220626">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578498220626" />
-    <state width="1493" height="180" key="GridCell.Tab.2.center" timestamp="1578498220626">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1578498220626" />
-    <state width="1493" height="180" key="GridCell.Tab.2.left" timestamp="1578498220626">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1578498220626" />
-    <state width="1493" height="180" key="GridCell.Tab.2.right" timestamp="1578498220626">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1578498220626" />
-    <state width="1493" height="180" key="GridCell.Tab.3.bottom" timestamp="1578498220627">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578498220627" />
-    <state width="1493" height="180" key="GridCell.Tab.3.center" timestamp="1578498220626">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1578498220626" />
-    <state width="1493" height="180" key="GridCell.Tab.3.left" timestamp="1578498220626">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1578498220626" />
-    <state width="1493" height="180" key="GridCell.Tab.3.right" timestamp="1578498220627">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1578498220627" />
-    <state width="1493" height="180" key="GridCell.Tab.4.bottom" timestamp="1578498220627">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578498220627" />
-    <state width="1493" height="180" key="GridCell.Tab.4.center" timestamp="1578498220627">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1578498220627" />
-    <state width="1493" height="180" key="GridCell.Tab.4.left" timestamp="1578498220627">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1578498220627" />
-    <state width="1493" height="180" key="GridCell.Tab.4.right" timestamp="1578498220627">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="180" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1578498220627" />
-    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size" timestamp="1576506578140">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824@0.0.1536.824" timestamp="1576506578140" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1577567770481">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1577567770481" />
-    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1577569159581">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1577569159581" />
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577533960755">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1577533960755" />
-    <state x="692" y="197" width="636" height="526" key="find.popup" timestamp="1577568848125">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="692" y="197" width="636" height="526" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1577568848125" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1577389664504">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1577389664504" />
+    <state x="450" y="11" width="636" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1601809353257" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

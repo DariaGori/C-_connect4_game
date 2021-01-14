@@ -1352,11 +1352,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\DAL\\DAL.csproj",
+      "projectUniqueName": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\DAL\\DAL.csproj",
+      "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\Daria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\DAL\\obj\\",
+      "outputPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet",
@@ -1376,12 +1376,13 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\BLL\\BLL.csproj"
+            "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\BLL\\BLL.csproj"
             },
-            "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\Domain\\Domain.csproj"
+            "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Daria\\RiderProjects\\charp2019fall\\Connect_4\\C-_connect4_game\\Domain\\Domain.csproj"
             }
           }
         }
@@ -1394,6 +1395,7 @@
     },
     "frameworks": {
       "netstandard2.1": {
+        "targetAlias": "netstandard2.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -1423,7 +1425,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
